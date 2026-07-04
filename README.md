@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
