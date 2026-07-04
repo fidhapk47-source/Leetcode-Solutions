@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
+## Math
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/fidhapk47-source/Leetcode-Solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
